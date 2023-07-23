@@ -10,4 +10,4 @@ Program implements:
 - storing content from file in container.
 - reading file only after updating.
 
-Blacklist content is in file "blacklist.txt".
+Blacklist content is in file blacklist.txt.
